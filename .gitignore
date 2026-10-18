@@ -1,3 +1,4 @@
 /resources
 .ipynb_checkpoints
 ./notebooks/Political_Tweets_Exploration.ipynb
+*.env
